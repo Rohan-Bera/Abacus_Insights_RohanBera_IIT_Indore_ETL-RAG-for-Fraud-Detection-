@@ -2,10 +2,17 @@ Download LLaMA model from the below drive link and save in the project root fold
 Download and extract the offline_models.zip file.
 https://drive.google.com/drive/folders/1dlY_O8WX9Z0swQkWEO_1dvX-j_AbZdUL?usp=sharing
 
-
+INSTALLL THE DEPENDENCIES
 ```bash
 pip install streamlit
+pip install pandas
+pip install numpy
+pip install torch
+pip install transformers
+pip install sentence-transformers
+pip install scikit-learn
 ```
+OR Alternatively
 
 (For `requirements.txt`, run:)
 
