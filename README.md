@@ -29,11 +29,7 @@ Inside the project directory, run:
 streamlit run main.py
 ```
 
-If the path is absolute (like your image):
 
-```bash
-streamlit run E:\CPP\my_fraud_project\main.py
-```
 
 ---
 
